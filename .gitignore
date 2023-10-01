@@ -127,6 +127,7 @@ ui-tests/playwright-report
 
 # VSCode
 .vscode
+/.idea/
 
 # RTC
 .jupyter_ystore.db
@@ -136,3 +137,11 @@ ui-tests/playwright-report
 .pnp.*
 ui-tests/.yarn/*
 ui-tests/.pnp.*
+libtorch/
+l_BaseKit_p_2023.2.0.49397.sh
+libintel-ext-pt-2.0.100+cpu.run
+libintel-ext-pt-cxx11-abi-2.0.100+cpu.run
+libtorch-cxx11-abi-shared-with-deps-2.0.0a0.zip
+
+
+/datasets/
